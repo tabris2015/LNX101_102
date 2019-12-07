@@ -18,6 +18,8 @@ Instale un servidor Linux con la propiedad de **dualboot** entre 2 sistemas de l
   
 Verifique el funcionamiento del dualboot.
 
+El usuario administrador en ambos sistemas debe llamarse **linux**.
+
 ## EJERCICIO 2: Personalizacion
 
 Personalice el fondo de escritorio y el tema de escritorio en Ubuntu(Gnome). Se debe cumplir con los siguientes requisitos:
